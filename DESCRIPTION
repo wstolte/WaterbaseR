@@ -1,0 +1,9 @@
+Package: WaterbaseR
+Type: Package
+Title: Opens connection to live.waterbase.nl and downloads data specified by location and substance
+Version: 1.0
+Date: 2015-04-14
+Author: Marc Weeber/Willem Stolte - Deltares
+Maintainer: Willem Stolte <willem.stolte@deltares.nl>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?

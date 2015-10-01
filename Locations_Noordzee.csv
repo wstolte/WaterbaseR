@@ -1,0 +1,349 @@
+FID;GEBIED;GEBOMSCH;LOCATIE;LOCOMSCH;X_WGS;Y_WGS;X_RD;Y_RD;Bron
+4756;NOORDZE;Noordzee  (internationaal);LOSWNDN12;Loswal Noord, vak N12;4.071642;52.001705;64646;446636;DONAR_RD
+4757;NOORDZE;Noordzee  (internationaal);LOSWNDN14;Loswal Noord, vak N14;4.114555;52.024203;67636;449086;DONAR_RD
+4758;NOORDZE;Noordzee  (internationaal);LOSWNDN2;Loswal Noord, vak N2;4.089119;52.077182;65996;455010;DONAR_RD
+4759;NOORDZE;Noordzee  (internationaal);LOSWNDN4;Loswal Noord, vak N4;4.041431;52.035679;62642;450453;DONAR_RD
+4760;NOORDZE;Noordzee  (internationaal);LOSWNDN6;Loswal Noord, vak N6;4.089414;52.060455;65983;453149;DONAR_RD
+4761;NOORDZE;Noordzee  (internationaal);LOSWNDN9;Loswal Noord, vak N9;4.131309;52.086207;68905;455963;DONAR_RD
+4762;NOORDZE;Noordzee  (internationaal);LOSWNWTLN1;Loswal Noordwest, vak LN1;4.079336;52.147215;65466;462812;DONAR_RD
+4763;NOORDZE;Noordzee  (internationaal);LOSWNWTLN2;Loswal Noordwest, vak LN2;4.080326;52.136887;65513;461662;DONAR_RD
+4764;NOORDZE;Noordzee  (internationaal);LOSWNWTLN3;Loswal Noordwest, vak LN3;4.096916;52.140657;66656;462061;DONAR_RD
+4765;NOORDZE;Noordzee  (internationaal);LOSWNWTLN4;Loswal Noordwest, vak LN4;4.114126;52.147389;67847;462789;DONAR_RD
+4766;NOORDZE;Noordzee  (internationaal);LOSWNWTLN5;Loswal Noordwest, vak LN5;4.114757;52.137057;67870;461639;DONAR_RD
+FID;GEBIED;GEBOMSCH;LOCATIE;LOCOMSCH;X_WGS;Y_WGS;X_RD;Y_RD;Bron
+436;NOORDZE;Noordzee  (internationaal);APPZK10;Appelzak 10 km uit de kust;3.264450;51.434187;7393;384836;DONAR_E50
+437;NOORDZE;Noordzee  (internationaal);APPZK20;Appelzak 20 km uit de kust;3.205009;51.495574;3465;391784;DONAR_E50
+438;NOORDZE;Noordzee  (internationaal);APPZK30;Appelzak 30 km uit de kust;3.050566;51.555574;-7041;398789;DONAR_E50
+439;NOORDZE;Noordzee  (internationaal);CENTLNZE;Centrale Noordzee (deelgebied);4.000000;54.666667;65445;743262;DONAR_E50
+440;NOORDZE;Noordzee  (internationaal);EURGDWE;Eurogeul DWE;3.000278;51.948333;-9093;442576;DONAR_E50
+441;NOORDZE;Noordzee  (internationaal);EURGE13;Eurogeul E13;3.736944;52.010000;41690;448028;DONAR_E50
+442;NOORDZE;Noordzee  (internationaal);EURGE5;Eurogeul E5;3.426667;51.984444;20318;445715;DONAR_E50
+443;NOORDZE;Noordzee  (internationaal);EURPFM;Euro platform;3.276389;51.998611;10044;447580;DONAR_E50
+444;NOORDZE;Noordzee  (internationaal);GOERE30;Goeree 30 km uit de kust;3.613613;52.015011;33239;448785;DONAR_E50
+445;NOORDZE;Noordzee  (internationaal);IJMDWT80;IJmuiden west 80 km uit de kust (deelg;3.316667;52.750000;15199;531070;DONAR_E50
+446;NOORDZE;Noordzee  (internationaal);K13APFM;K13a platform;3.220278;53.217778;10257;583294;DONAR_E50
+447;NOORDZE;Noordzee  (internationaal);KUSTZNE;Kustzone (deelgebied);4.666667;53.000000;106604;557125;DONAR_E50
+448;NOORDZE;Noordzee  (internationaal);LICHTELGRE;Lichteiland Goeree;3.669722;51.925833;36854;438774;DONAR_E50
+449;NOORDZE;Noordzee  (internationaal);MIJNBVKA01;Mijnbouwvak A01 (deelgebied);3.166667;55.916667;16027;883810;DONAR_E50
+450;NOORDZE;Noordzee  (internationaal);MIJNBVKA02;Mijnbouwvak A02 (deelgebied);3.500000;55.916667;36881;883204;DONAR_E50
+451;NOORDZE;Noordzee  (internationaal);MIJNBVKA03;Mijnbouwvak A03 (deelgebied);3.833333;55.916667;57736;882697;DONAR_E50
+452;NOORDZE;Noordzee  (internationaal);MIJNBVKA04;Mijnbouwvak A04 (deelgebied);3.166667;55.750000;15444;865245;DONAR_E50
+453;NOORDZE;Noordzee  (internationaal);MIJNBVKA05;Mijnbouwvak A05 (deelgebied);3.500000;55.750000;36385;864637;DONAR_E50
+454;NOORDZE;Noordzee  (internationaal);MIJNBVKA06;Mijnbouwvak A06 (deelgebied);3.833333;55.750000;57328;864128;DONAR_E50
+455;NOORDZE;Noordzee  (internationaal);MIJNBVKA07;Mijnbouwvak A07 (deelgebied);3.166667;55.583333;14862;846682;DONAR_E50
+456;NOORDZE;Noordzee  (internationaal);MIJNBVKA08;Mijnbouwvak A08 (deelgebied);3.500000;55.583333;35891;846073;DONAR_E50
+457;NOORDZE;Noordzee  (internationaal);MIJNBVKA09;Mijnbouwvak A09 (deelgebied);3.833333;55.583333;56921;845562;DONAR_E50
+458;NOORDZE;Noordzee  (internationaal);MIJNBVKA10;Mijnbouwvak A10 (deelgebied);3.166667;55.416667;14281;828121;DONAR_E50
+459;NOORDZE;Noordzee  (internationaal);MIJNBVKA11;Mijnbouwvak A11 (deelgebied);3.500000;55.416667;35397;827510;DONAR_E50
+460;NOORDZE;Noordzee  (internationaal);MIJNBVKA12;Mijnbouwvak A12 (deelgebied);3.833333;55.416667;56514;826998;DONAR_E50
+461;NOORDZE;Noordzee  (internationaal);MIJNBVKA13;Mijnbouwvak A13 (deelgebied);3.166667;55.250000;13700;809563;DONAR_E50
+462;NOORDZE;Noordzee  (internationaal);MIJNBVKA14;Mijnbouwvak A14 (deelgebied);3.500000;55.250000;34903;808950;DONAR_E50
+463;NOORDZE;Noordzee  (internationaal);MIJNBVKA15;Mijnbouwvak A15 (deelgebied);3.833333;55.250000;56108;808436;DONAR_E50
+464;NOORDZE;Noordzee  (internationaal);MIJNBVKA16;Mijnbouwvak A16 (deelgebied);3.166667;55.083333;13120;791006;DONAR_E50
+465;NOORDZE;Noordzee  (internationaal);MIJNBVKA17;Mijnbouwvak A17 (deelgebied);3.500000;55.083333;34410;790391;DONAR_E50
+466;NOORDZE;Noordzee  (internationaal);MIJNBVKA18;Mijnbouwvak A18 (deelgebied);3.833333;55.083333;55702;789876;DONAR_E50
+467;NOORDZE;Noordzee  (internationaal);MIJNBVKB01;Mijnbouwvak B01 (deelgebied);4.166667;55.916667;78593;882288;DONAR_E50
+468;NOORDZE;Noordzee  (internationaal);MIJNBVKB02;Mijnbouwvak B02 (deelgebied);4.500000;55.916667;99452;881977;DONAR_E50
+469;NOORDZE;Noordzee  (internationaal);MIJNBVKB03;Mijnbouwvak B03 (deelgebied);4.833333;55.916667;120311;881764;DONAR_E50
+470;NOORDZE;Noordzee  (internationaal);MIJNBVKB04;Mijnbouwvak B04 (deelgebied);4.166667;55.750000;78273;863718;DONAR_E50
+471;NOORDZE;Noordzee  (internationaal);MIJNBVKB05;Mijnbouwvak B05 (deelgebied);4.500000;55.750000;99219;863406;DONAR_E50
+472;NOORDZE;Noordzee  (internationaal);MIJNBVKB06;Mijnbouwvak B06 (deelgebied);4.833333;55.750000;120166;863193;DONAR_E50
+473;NOORDZE;Noordzee  (internationaal);MIJNBVKB07;Mijnbouwvak B07 (deelgebied);4.166667;55.583333;77953;845150;DONAR_E50
+474;NOORDZE;Noordzee  (internationaal);MIJNBVKB08;Mijnbouwvak B08 (deelgebied);4.500000;55.583333;98987;844838;DONAR_E50
+475;NOORDZE;Noordzee  (internationaal);MIJNBVKB09;Mijnbouwvak B09 (deelgebied);4.833333;55.583333;120021;844624;DONAR_E50
+476;NOORDZE;Noordzee  (internationaal);MIJNBVKB10;Mijnbouwvak B10 (deelgebied);4.166667;55.416667;77634;826585;DONAR_E50
+477;NOORDZE;Noordzee  (internationaal);MIJNBVKB11;Mijnbouwvak B11 (deelgebied);4.500000;55.416667;98754;826271;DONAR_E50
+478;NOORDZE;Noordzee  (internationaal);MIJNBVKB12;Mijnbouwvak B12 (deelgebied);4.833333;55.416667;119876;826057;DONAR_E50
+479;NOORDZE;Noordzee  (internationaal);MIJNBVKB13;Mijnbouwvak B13 (deelgebied);4.166667;55.250000;77315;808022;DONAR_E50
+480;NOORDZE;Noordzee  (internationaal);MIJNBVKB14;Mijnbouwvak B14 (deelgebied);4.500000;55.250000;98522;807707;DONAR_E50
+481;NOORDZE;Noordzee  (internationaal);MIJNBVKB15;Mijnbouwvak B15 (deelgebied);4.833333;55.250000;119731;807492;DONAR_E50
+482;NOORDZE;Noordzee  (internationaal);MIJNBVKB16;Mijnbouwvak B16 (deelgebied);4.166667;55.083333;76996;789460;DONAR_E50
+483;NOORDZE;Noordzee  (internationaal);MIJNBVKB17;Mijnbouwvak B17 (deelgebied);4.500000;55.083333;98290;789145;DONAR_E50
+484;NOORDZE;Noordzee  (internationaal);MIJNBVKB18;Mijnbouwvak B18 (deelgebied);4.833333;55.083333;119586;788929;DONAR_E50
+485;NOORDZE;Noordzee  (internationaal);MIJNBVKD01;Mijnbouwvak D01 (deelgebied);2.166667;54.916667;-51574;774902;DONAR_E50
+486;NOORDZE;Noordzee  (internationaal);MIJNBVKD02;Mijnbouwvak D02 (deelgebied);2.500000;54.916667;-30205;773985;DONAR_E50
+487;NOORDZE;Noordzee  (internationaal);MIJNBVKD03;Mijnbouwvak D03 (deelgebied);2.833333;54.916667;-8833;773168;DONAR_E50
+488;NOORDZE;Noordzee  (internationaal);MIJNBVKD04;Mijnbouwvak D04 (deelgebied);2.166667;54.750000;-52413;756356;DONAR_E50
+489;NOORDZE;Noordzee  (internationaal);MIJNBVKD05;Mijnbouwvak D05 (deelgebied);2.500000;54.750000;-30957;755436;DONAR_E50
+490;NOORDZE;Noordzee  (internationaal);MIJNBVKD06;Mijnbouwvak D06 (deelgebied);2.833333;54.750000;-9499;754617;DONAR_E50
+491;NOORDZE;Noordzee  (internationaal);MIJNBVKD07;Mijnbouwvak D07 (deelgebied);2.166667;54.583333;-53251;737812;DONAR_E50
+492;NOORDZE;Noordzee  (internationaal);MIJNBVKD08;Mijnbouwvak D08 (deelgebied);2.500000;54.583333;-31709;736889;DONAR_E50
+493;NOORDZE;Noordzee  (internationaal);MIJNBVKD09;Mijnbouwvak D09 (deelgebied);2.833333;54.583333;-10163;736068;DONAR_E50
+494;NOORDZE;Noordzee  (internationaal);MIJNBVKD10;Mijnbouwvak D10 (deelgebied);2.166667;54.416667;-54088;719269;DONAR_E50
+495;NOORDZE;Noordzee  (internationaal);MIJNBVKD11;Mijnbouwvak D11 (deelgebied);2.500000;54.416667;-32459;718344;DONAR_E50
+496;NOORDZE;Noordzee  (internationaal);MIJNBVKD12;Mijnbouwvak D12 (deelgebied);2.833333;54.416667;-10827;717520;DONAR_E50
+497;NOORDZE;Noordzee  (internationaal);MIJNBVKD13;Mijnbouwvak D13 (deelgebied);2.166667;54.250000;-54924;700728;DONAR_E50
+498;NOORDZE;Noordzee  (internationaal);MIJNBVKD14;Mijnbouwvak D14 (deelgebied);2.500000;54.250000;-33208;699800;DONAR_E50
+499;NOORDZE;Noordzee  (internationaal);MIJNBVKD15;Mijnbouwvak D15 (deelgebied);2.833333;54.250000;-11490;698974;DONAR_E50
+500;NOORDZE;Noordzee  (internationaal);MIJNBVKD16;Mijnbouwvak D16 (deelgebied);2.166667;54.083333;-55759;682188;DONAR_E50
+501;NOORDZE;Noordzee  (internationaal);MIJNBVKD17;Mijnbouwvak D17 (deelgebied);2.500000;54.083333;-33957;681258;DONAR_E50
+502;NOORDZE;Noordzee  (internationaal);MIJNBVKD18;Mijnbouwvak D18 (deelgebied);2.833333;54.083333;-12152;680429;DONAR_E50
+503;NOORDZE;Noordzee  (internationaal);MIJNBVKE01;Mijnbouwvak E01 (deelgebied);3.166667;54.916667;12541;772451;DONAR_E50
+504;NOORDZE;Noordzee  (internationaal);MIJNBVKE02;Mijnbouwvak E02 (deelgebied);3.500000;54.916667;33918;771834;DONAR_E50
+505;NOORDZE;Noordzee  (internationaal);MIJNBVKE03;Mijnbouwvak E03 (deelgebied);3.833333;54.916667;55297;771318;DONAR_E50
+506;NOORDZE;Noordzee  (internationaal);MIJNBVKE04;Mijnbouwvak E04 (deelgebied);3.166667;54.750000;11963;753898;DONAR_E50
+507;NOORDZE;Noordzee  (internationaal);MIJNBVKE05;Mijnbouwvak E05 (deelgebied);3.500000;54.750000;33427;753279;DONAR_E50
+508;NOORDZE;Noordzee  (internationaal);MIJNBVKE06;Mijnbouwvak E06 (deelgebied);3.833333;54.750000;54892;752761;DONAR_E50
+509;NOORDZE;Noordzee  (internationaal);MIJNBVKE07;Mijnbouwvak E07 (deelgebied);3.166667;54.583333;11385;735347;DONAR_E50
+510;NOORDZE;Noordzee  (internationaal);MIJNBVKE08;Mijnbouwvak E08 (deelgebied);3.500000;54.583333;32936;734726;DONAR_E50
+511;NOORDZE;Noordzee  (internationaal);MIJNBVKE09;Mijnbouwvak E09 (deelgebied);3.833333;54.583333;54488;734206;DONAR_E50
+512;NOORDZE;Noordzee  (internationaal);MIJNBVKE10;Mijnbouwvak E10 (deelgebied);3.166667;54.416667;10808;716797;DONAR_E50
+513;NOORDZE;Noordzee  (internationaal);MIJNBVKE11;Mijnbouwvak E11 (deelgebied);3.500000;54.416667;32445;716175;DONAR_E50
+514;NOORDZE;Noordzee  (internationaal);MIJNBVKE12;Mijnbouwvak E12 (deelgebied);3.833333;54.416667;54084;715653;DONAR_E50
+515;NOORDZE;Noordzee  (internationaal);MIJNBVKE13;Mijnbouwvak E13 (deelgebied);3.166667;54.250000;10232;698249;DONAR_E50
+516;NOORDZE;Noordzee  (internationaal);MIJNBVKE14;Mijnbouwvak E14 (deelgebied);3.500000;54.250000;31955;697625;DONAR_E50
+517;NOORDZE;Noordzee  (internationaal);MIJNBVKE15;Mijnbouwvak E15 (deelgebied);3.833333;54.250000;53681;697102;DONAR_E50
+518;NOORDZE;Noordzee  (internationaal);MIJNBVKE16;Mijnbouwvak E16 (deelgebied);3.166667;54.083333;9656;679702;DONAR_E50
+519;NOORDZE;Noordzee  (internationaal);MIJNBVKE17;Mijnbouwvak E17 (deelgebied);3.500000;54.083333;31466;679076;DONAR_E50
+520;NOORDZE;Noordzee  (internationaal);MIJNBVKE18;Mijnbouwvak E18 (deelgebied);3.833333;54.083333;53278;678552;DONAR_E50
+521;NOORDZE;Noordzee  (internationaal);MIJNBVKF01;Mijnbouwvak F01 (deelgebied);4.166667;54.916667;76677;770901;DONAR_E50
+522;NOORDZE;Noordzee  (internationaal);MIJNBVKF02;Mijnbouwvak F02 (deelgebied);4.500000;54.916667;98059;770584;DONAR_E50
+523;NOORDZE;Noordzee  (internationaal);MIJNBVKF03;Mijnbouwvak F03 (deelgebied);4.833333;54.916667;119442;770368;DONAR_E50
+524;NOORDZE;Noordzee  (internationaal);MIJNBVKF04;Mijnbouwvak F04 (deelgebied);4.166667;54.750000;76359;752343;DONAR_E50
+525;NOORDZE;Noordzee  (internationaal);MIJNBVKF05;Mijnbouwvak F05 (deelgebied);4.500000;54.750000;97828;752026;DONAR_E50
+526;NOORDZE;Noordzee  (internationaal);MIJNBVKF06;Mijnbouwvak F06 (deelgebied);4.833333;54.750000;119297;751809;DONAR_E50
+527;NOORDZE;Noordzee  (internationaal);MIJNBVKF07;Mijnbouwvak F07 (deelgebied);4.166667;54.583333;76042;733787;DONAR_E50
+528;NOORDZE;Noordzee  (internationaal);MIJNBVKF08;Mijnbouwvak F08 (deelgebied);4.500000;54.583333;97597;733469;DONAR_E50
+529;NOORDZE;Noordzee  (internationaal);MIJNBVKF09;Mijnbouwvak F09 (deelgebied);4.833333;54.583333;119153;733251;DONAR_E50
+530;NOORDZE;Noordzee  (internationaal);MIJNBVKF10;Mijnbouwvak F10 (deelgebied);4.166667;54.416667;75725;715233;DONAR_E50
+531;NOORDZE;Noordzee  (internationaal);MIJNBVKF11;Mijnbouwvak F11 (deelgebied);4.500000;54.416667;97366;714914;DONAR_E50
+532;NOORDZE;Noordzee  (internationaal);MIJNBVKF12;Mijnbouwvak F12 (deelgebied);4.833333;54.416667;119009;714695;DONAR_E50
+533;NOORDZE;Noordzee  (internationaal);MIJNBVKF13;Mijnbouwvak F13 (deelgebied);4.166667;54.250000;75408;696680;DONAR_E50
+534;NOORDZE;Noordzee  (internationaal);MIJNBVKF14;Mijnbouwvak F14 (deelgebied);4.500000;54.250000;97136;696360;DONAR_E50
+535;NOORDZE;Noordzee  (internationaal);MIJNBVKF15;Mijnbouwvak F15 (deelgebied);4.833333;54.250000;118865;696141;DONAR_E50
+536;NOORDZE;Noordzee  (internationaal);MIJNBVKF16;Mijnbouwvak F16 (deelgebied);4.166667;54.083333;75091;678129;DONAR_E50
+537;NOORDZE;Noordzee  (internationaal);MIJNBVKF17;Mijnbouwvak F17 (deelgebied);4.500000;54.083333;96906;677808;DONAR_E50
+538;NOORDZE;Noordzee  (internationaal);MIJNBVKF18;Mijnbouwvak F18 (deelgebied);4.833333;54.083333;118721;677588;DONAR_E50
+539;NOORDZE;Noordzee  (internationaal);MIJNBVKG01;Mijnbouwvak G01 (deelgebied);5.166667;54.916667;140825;770252;DONAR_E50
+540;NOORDZE;Noordzee  (internationaal);MIJNBVKG02;Mijnbouwvak G02 (deelgebied);5.500000;54.916667;162208;770235;DONAR_E50
+541;NOORDZE;Noordzee  (internationaal);MIJNBVKG03;Mijnbouwvak G03 (deelgebied);5.833333;54.916667;183591;770319;DONAR_E50
+542;NOORDZE;Noordzee  (internationaal);MIJNBVKG04;Mijnbouwvak G04 (deelgebied);5.166667;54.750000;140767;751692;DONAR_E50
+543;NOORDZE;Noordzee  (internationaal);MIJNBVKG05;Mijnbouwvak G05 (deelgebied);5.500000;54.750000;162237;751676;DONAR_E50
+544;NOORDZE;Noordzee  (internationaal);MIJNBVKG06;Mijnbouwvak G06 (deelgebied);5.833333;54.750000;183707;751760;DONAR_E50
+545;NOORDZE;Noordzee  (internationaal);MIJNBVKG07;Mijnbouwvak G07 (deelgebied);5.166667;54.583333;140710;733134;DONAR_E50
+546;NOORDZE;Noordzee  (internationaal);MIJNBVKG08;Mijnbouwvak G08 (deelgebied);5.500000;54.583333;162266;733118;DONAR_E50
+547;NOORDZE;Noordzee  (internationaal);MIJNBVKG09;Mijnbouwvak G09 (deelgebied);5.833333;54.583333;183823;733202;DONAR_E50
+548;NOORDZE;Noordzee  (internationaal);MIJNBVKG10;Mijnbouwvak G10 (deelgebied);5.166667;54.416667;140652;714578;DONAR_E50
+549;NOORDZE;Noordzee  (internationaal);MIJNBVKG11;Mijnbouwvak G11 (deelgebied);5.500000;54.416667;162296;714562;DONAR_E50
+550;NOORDZE;Noordzee  (internationaal);MIJNBVKG12;Mijnbouwvak G12 (deelgebied);5.833333;54.416667;183939;714646;DONAR_E50
+551;NOORDZE;Noordzee  (internationaal);MIJNBVKG13;Mijnbouwvak G13 (deelgebied);5.166667;54.250000;140595;696023;DONAR_E50
+552;NOORDZE;Noordzee  (internationaal);MIJNBVKG14;Mijnbouwvak G14 (deelgebied);5.500000;54.250000;162325;696007;DONAR_E50
+553;NOORDZE;Noordzee  (internationaal);MIJNBVKG15;Mijnbouwvak G15 (deelgebied);5.833333;54.250000;184055;696092;DONAR_E50
+554;NOORDZE;Noordzee  (internationaal);MIJNBVKG16;Mijnbouwvak G16 (deelgebied);5.166667;54.083333;140538;677470;DONAR_E50
+555;NOORDZE;Noordzee  (internationaal);MIJNBVKG17;Mijnbouwvak G17 (deelgebied);5.500000;54.083333;162354;677454;DONAR_E50
+556;NOORDZE;Noordzee  (internationaal);MIJNBVKG18;Mijnbouwvak G18 (deelgebied);5.833333;54.083333;184170;677539;DONAR_E50
+557;NOORDZE;Noordzee  (internationaal);MIJNBVKH16;Mijnbouwvak H16 (deelgebied);6.166667;54.083333;205986;677725;DONAR_E50
+558;NOORDZE;Noordzee  (internationaal);MIJNBVKH17;Mijnbouwvak H17 (deelgebied);6.500000;54.083333;227801;678013;DONAR_E50
+559;NOORDZE;Noordzee  (internationaal);MIJNBVKH18;Mijnbouwvak H18 (deelgebied);6.833333;54.083333;249615;678403;DONAR_E50
+560;NOORDZE;Noordzee  (internationaal);MIJNBVKJ01;Mijnbouwvak J01 (deelgebied);2.166667;53.916667;-56593;663650;DONAR_E50
+561;NOORDZE;Noordzee  (internationaal);MIJNBVKJ03;Mijnbouwvak J03 (deelgebied);2.833333;53.916667;-12813;661886;DONAR_E50
+562;NOORDZE;Noordzee  (internationaal);MIJNBVKJ04;Mijnbouwvak J04 (deelgebied);2.166667;53.750000;-57426;645113;DONAR_E50
+563;NOORDZE;Noordzee  (internationaal);MIJNBVKJ05;Mijnbouwvak J05 (deelgebied);2.500000;53.750000;-35451;644177;DONAR_E50
+564;NOORDZE;Noordzee  (internationaal);MIJNBVKJ06;Mijnbouwvak J06 (deelgebied);2.833333;53.750000;-13474;643344;DONAR_E50
+565;NOORDZE;Noordzee  (internationaal);MIJNBVKJ07;Mijnbouwvak J07 (deelgebied);2.166667;53.583333;-58258;626577;DONAR_E50
+566;NOORDZE;Noordzee  (internationaal);MIJNBVKJ08;Mijnbouwvak J08 (deelgebied);2.500000;53.583333;-36197;625639;DONAR_E50
+567;NOORDZE;Noordzee  (internationaal);MIJNBVKJ09;Mijnbouwvak J09 (deelgebied);2.833333;53.583333;-14133;624803;DONAR_E50
+568;NOORDZE;Noordzee  (internationaal);MIJNBVKJ11;Mijnbouwvak J11 (deelgebied);2.500000;53.416667;-36942;607102;DONAR_E50
+569;NOORDZE;Noordzee  (internationaal);MIJNBVKJ12;Mijnbouwvak J12 (deelgebied);2.833333;53.416667;-14792;606263;DONAR_E50
+570;NOORDZE;Noordzee  (internationaal);MIJNBVKJ15;Mijnbouwvak J15 (deelgebied);2.833333;53.250000;-15450;587725;DONAR_E50
+571;NOORDZE;Noordzee  (internationaal);MIJNBVKJ18;Mijnbouwvak J18 (deelgebied);2.833333;53.083333;-16108;569187;DONAR_E50
+572;NOORDZE;Noordzee  (internationaal);MIJNBVKK01;Mijnbouwvak K01 (deelgebied);3.166667;53.916667;9081;661156;DONAR_E50
+573;NOORDZE;Noordzee  (internationaal);MIJNBVKK02;Mijnbouwvak K02 (deelgebied);3.500000;53.916667;30977;660529;DONAR_E50
+574;NOORDZE;Noordzee  (internationaal);MIJNBVKK03;Mijnbouwvak K03 (deelgebied);3.833333;53.916667;52875;660003;DONAR_E50
+575;NOORDZE;Noordzee  (internationaal);MIJNBVKK04;Mijnbouwvak K04 (deelgebied);3.166667;53.750000;8507;642612;DONAR_E50
+576;NOORDZE;Noordzee  (internationaal);MIJNBVKK05;Mijnbouwvak K05 (deelgebied);3.500000;53.750000;30489;641983;DONAR_E50
+577;NOORDZE;Noordzee  (internationaal);MIJNBVKK06;Mijnbouwvak K06 (deelgebied);3.833333;53.750000;52473;641456;DONAR_E50
+578;NOORDZE;Noordzee  (internationaal);MIJNBVKK07;Mijnbouwvak K07 (deelgebied);3.166667;53.583333;7933;624069;DONAR_E50
+579;NOORDZE;Noordzee  (internationaal);MIJNBVKK08;Mijnbouwvak K08 (deelgebied);3.500000;53.583333;30002;623438;DONAR_E50
+580;NOORDZE;Noordzee  (internationaal);MIJNBVKK09;Mijnbouwvak K09 (deelgebied);3.833333;53.583333;52072;622910;DONAR_E50
+581;NOORDZE;Noordzee  (internationaal);MIJNBVKK10;Mijnbouwvak K10 (deelgebied);3.166667;53.416667;7360;605528;DONAR_E50
+582;NOORDZE;Noordzee  (internationaal);MIJNBVKK11;Mijnbouwvak K11 (deelgebied);3.500000;53.416667;29515;604895;DONAR_E50
+583;NOORDZE;Noordzee  (internationaal);MIJNBVKK12;Mijnbouwvak K12 (deelgebied);3.833333;53.416667;51671;604365;DONAR_E50
+584;NOORDZE;Noordzee  (internationaal);MIJNBVKK13;Mijnbouwvak K13 (deelgebied);3.166667;53.250000;6788;586987;DONAR_E50
+585;NOORDZE;Noordzee  (internationaal);MIJNBVKK14;Mijnbouwvak K14 (deelgebied);3.500000;53.250000;29028;586353;DONAR_E50
+586;NOORDZE;Noordzee  (internationaal);MIJNBVKK15;Mijnbouwvak K15 (deelgebied);3.833333;53.250000;51271;585821;DONAR_E50
+587;NOORDZE;Noordzee  (internationaal);MIJNBVKK16;Mijnbouwvak K16 (deelgebied);3.166667;53.083333;6216;568448;DONAR_E50
+588;NOORDZE;Noordzee  (internationaal);MIJNBVKK17;Mijnbouwvak K17 (deelgebied);3.500000;53.083333;28542;567811;DONAR_E50
+589;NOORDZE;Noordzee  (internationaal);MIJNBVKK18;Mijnbouwvak K18 (deelgebied);3.833333;53.083333;50870;567278;DONAR_E50
+590;NOORDZE;Noordzee  (internationaal);MIJNBVKL01;Mijnbouwvak L01 (deelgebied);4.166667;53.916667;74775;659579;DONAR_E50
+591;NOORDZE;Noordzee  (internationaal);MIJNBVKL02;Mijnbouwvak L02 (deelgebied);4.500000;53.916667;96676;659257;DONAR_E50
+592;NOORDZE;Noordzee  (internationaal);MIJNBVKL03;Mijnbouwvak L03 (deelgebied);4.833333;53.916667;118578;659037;DONAR_E50
+593;NOORDZE;Noordzee  (internationaal);MIJNBVKL04;Mijnbouwvak L04 (deelgebied);4.166667;53.750000;74459;641031;DONAR_E50
+594;NOORDZE;Noordzee  (internationaal);MIJNBVKL05;Mijnbouwvak L05 (deelgebied);4.500000;53.750000;96447;640708;DONAR_E50
+595;NOORDZE;Noordzee  (internationaal);MIJNBVKL06;Mijnbouwvak L06 (deelgebied);4.833333;53.750000;118435;640487;DONAR_E50
+596;NOORDZE;Noordzee  (internationaal);MIJNBVKL07;Mijnbouwvak L07 (deelgebied);4.166667;53.583333;74144;622483;DONAR_E50
+597;NOORDZE;Noordzee  (internationaal);MIJNBVKL08;Mijnbouwvak L08 (deelgebied);4.500000;53.583333;96217;622160;DONAR_E50
+598;NOORDZE;Noordzee  (internationaal);MIJNBVKL09;Mijnbouwvak L09 (deelgebied);4.833333;53.583333;118291;621938;DONAR_E50
+599;NOORDZE;Noordzee  (internationaal);MIJNBVKL10;Mijnbouwvak L10 (deelgebied);4.166667;53.416667;73829;603937;DONAR_E50
+600;NOORDZE;Noordzee  (internationaal);MIJNBVKL11;Mijnbouwvak L11 (deelgebied);4.500000;53.416667;95988;603613;DONAR_E50
+601;NOORDZE;Noordzee  (internationaal);MIJNBVKL12;Mijnbouwvak L12 (deelgebied);4.833333;53.416667;118148;603391;DONAR_E50
+602;NOORDZE;Noordzee  (internationaal);MIJNBVKL13;Mijnbouwvak L13 (deelgebied);4.166667;53.250000;73514;585392;DONAR_E50
+603;NOORDZE;Noordzee  (internationaal);MIJNBVKL14;Mijnbouwvak L14 (deelgebied);4.500000;53.250000;95760;585067;DONAR_E50
+604;NOORDZE;Noordzee  (internationaal);MIJNBVKL15;Mijnbouwvak L15 (deelgebied);4.833333;53.250000;118006;584844;DONAR_E50
+605;NOORDZE;Noordzee  (internationaal);MIJNBVKL16;Mijnbouwvak L16 (deelgebied);4.166667;53.083333;73200;566848;DONAR_E50
+606;NOORDZE;Noordzee  (internationaal);MIJNBVKL17;Mijnbouwvak L17 (deelgebied);4.500000;53.083333;95531;566522;DONAR_E50
+607;NOORDZE;Noordzee  (internationaal);MIJNBVKL18;Mijnbouwvak L18 (deelgebied);4.833333;53.083333;117863;566299;DONAR_E50
+608;NOORDZE;Noordzee  (internationaal);MIJNBVKM01;Mijnbouwvak M01 (deelgebied);5.166667;53.916667;140480;658919;DONAR_E50
+609;NOORDZE;Noordzee  (internationaal);MIJNBVKM02;Mijnbouwvak M02 (deelgebied);5.500000;53.916667;162383;658902;DONAR_E50
+610;NOORDZE;Noordzee  (internationaal);MIJNBVKM03;Mijnbouwvak M03 (deelgebied);5.833333;53.916667;184286;658987;DONAR_E50
+611;NOORDZE;Noordzee  (internationaal);MIJNBVKM04;Mijnbouwvak M04 (deelgebied);5.166667;53.750000;140423;640368;DONAR_E50
+612;NOORDZE;Noordzee  (internationaal);MIJNBVKM05;Mijnbouwvak M05 (deelgebied);5.500000;53.750000;162412;640351;DONAR_E50
+613;NOORDZE;Noordzee  (internationaal);MIJNBVKM06;Mijnbouwvak M06 (deelgebied);5.833333;53.750000;184401;640437;DONAR_E50
+614;NOORDZE;Noordzee  (internationaal);MIJNBVKM07;Mijnbouwvak M07 (deelgebied);5.166667;53.583333;140366;621819;DONAR_E50
+615;NOORDZE;Noordzee  (internationaal);MIJNBVKM08;Mijnbouwvak M08 (deelgebied);5.500000;53.583333;162441;621802;DONAR_E50
+616;NOORDZE;Noordzee  (internationaal);MIJNBVKM09;Mijnbouwvak M09 (deelgebied);5.833333;53.583333;184516;621888;DONAR_E50
+617;NOORDZE;Noordzee  (internationaal);MIJNBVKM10;Mijnbouwvak M10 (deelgebied);5.166667;53.416667;140309;603271;DONAR_E50
+618;NOORDZE;Noordzee  (internationaal);MIJNBVKM11;Mijnbouwvak M11 (deelgebied);5.500000;53.416667;162470;603254;DONAR_E50
+619;NOORDZE;Noordzee  (internationaal);MIJNBVKM12;Mijnbouwvak M12 (deelgebied);5.833333;53.416667;184631;603340;DONAR_E50
+620;NOORDZE;Noordzee  (internationaal);MIJNBVKM13;Mijnbouwvak M13 (deelgebied);5.166667;53.250000;140252;584724;DONAR_E50
+621;NOORDZE;Noordzee  (internationaal);MIJNBVKM14;Mijnbouwvak M14 (deelgebied);5.500000;53.250000;162499;584708;DONAR_E50
+622;NOORDZE;Noordzee  (internationaal);MIJNBVKM15;Mijnbouwvak M15 (deelgebied);5.833333;53.250000;184746;584794;DONAR_E50
+623;NOORDZE;Noordzee  (internationaal);MIJNBVKN01;Mijnbouwvak N01 (deelgebied);6.166667;53.916667;206188;659174;DONAR_E50
+624;NOORDZE;Noordzee  (internationaal);MIJNBVKN02;Mijnbouwvak N02 (deelgebied);6.500000;53.916667;228089;659463;DONAR_E50
+625;NOORDZE;Noordzee  (internationaal);MIJNBVKN03;Mijnbouwvak N03 (deelgebied);6.833333;53.916667;249989;659854;DONAR_E50
+626;NOORDZE;Noordzee  (internationaal);MIJNBVKN04;Mijnbouwvak N04 (deelgebied);6.166667;53.750000;206389;640625;DONAR_E50
+627;NOORDZE;Noordzee  (internationaal);MIJNBVKN05;Mijnbouwvak N05 (deelgebied);6.500000;53.750000;228377;640914;DONAR_E50
+628;NOORDZE;Noordzee  (internationaal);MIJNBVKN06;Mijnbouwvak N06 (deelgebied);6.833333;53.750000;250363;641306;DONAR_E50
+629;NOORDZE;Noordzee  (internationaal);MIJNBVKN07;Mijnbouwvak N07 (deelgebied);6.166667;53.583333;206590;622076;DONAR_E50
+630;NOORDZE;Noordzee  (internationaal);MIJNBVKN08;Mijnbouwvak N08 (deelgebied);6.500000;53.583333;228664;622367;DONAR_E50
+631;NOORDZE;Noordzee  (internationaal);MIJNBVKN09;Mijnbouwvak N09 (deelgebied);6.833333;53.583333;250736;622760;DONAR_E50
+632;NOORDZE;Noordzee  (internationaal);MIJNBVKN10;Mijnbouwvak N10 (deelgebied);6.166667;53.416667;206791;603529;DONAR_E50
+633;NOORDZE;Noordzee  (internationaal);MIJNBVKN12;Mijnbouwvak N12 (deelgebied);6.833333;53.416667;251109;604214;DONAR_E50
+634;NOORDZE;Noordzee  (internationaal);MIJNBVKN16;Mijnbouwvak N16 (deelgebied);6.166667;53.083333;207193;566438;DONAR_E50
+635;NOORDZE;Noordzee  (internationaal);MIJNBVKN17;Mijnbouwvak N17 (deelgebied);6.500000;53.083333;229524;566731;DONAR_E50
+636;NOORDZE;Noordzee  (internationaal);MIJNBVKO02;Mijnbouwvak O02 (deelgebied);2.500000;52.916667;-39171;551496;DONAR_E50
+637;NOORDZE;Noordzee  (internationaal);MIJNBVKO03;Mijnbouwvak O03 (deelgebied);2.833333;52.916667;-16764;550651;DONAR_E50
+638;NOORDZE;Noordzee  (internationaal);MIJNBVKO12;Mijnbouwvak O12 (deelgebied);2.833333;52.416667;-18730;495045;DONAR_E50
+639;NOORDZE;Noordzee  (internationaal);MIJNBVKO15;Mijnbouwvak O15 (deelgebied);2.833333;52.250000;-19383;476512;DONAR_E50
+640;NOORDZE;Noordzee  (internationaal);MIJNBVKO17;Mijnbouwvak O17 (deelgebied);2.500000;52.083333;-42870;458835;DONAR_E50
+641;NOORDZE;Noordzee  (internationaal);MIJNBVKO18;Mijnbouwvak O18 (deelgebied);2.833333;52.083333;-20036;457978;DONAR_E50
+642;NOORDZE;Noordzee  (internationaal);MIJNBVKP01;Mijnbouwvak P01 (deelgebied);3.166667;52.916667;5645;549909;DONAR_E50
+643;NOORDZE;Noordzee  (internationaal);MIJNBVKP02;Mijnbouwvak P02 (deelgebied);3.500000;52.916667;28057;549271;DONAR_E50
+644;NOORDZE;Noordzee  (internationaal);MIJNBVKP03;Mijnbouwvak P03 (deelgebied);3.833333;52.916667;50471;548736;DONAR_E50
+645;NOORDZE;Noordzee  (internationaal);MIJNBVKP04;Mijnbouwvak P04 (deelgebied);3.166667;52.750000;5075;531371;DONAR_E50
+646;NOORDZE;Noordzee  (internationaal);MIJNBVKP05;Mijnbouwvak P05 (deelgebied);3.500000;52.750000;27572;530731;DONAR_E50
+647;NOORDZE;Noordzee  (internationaal);MIJNBVKP06;Mijnbouwvak P06 (deelgebied);3.833333;52.750000;50072;530195;DONAR_E50
+648;NOORDZE;Noordzee  (internationaal);MIJNBVKP07;Mijnbouwvak P07 (deelgebied);3.166667;52.583333;4505;512834;DONAR_E50
+649;NOORDZE;Noordzee  (internationaal);MIJNBVKP08;Mijnbouwvak P08 (deelgebied);3.500000;52.583333;27088;512193;DONAR_E50
+650;NOORDZE;Noordzee  (internationaal);MIJNBVKP09;Mijnbouwvak P09 (deelgebied);3.833333;52.583333;49673;511655;DONAR_E50
+651;NOORDZE;Noordzee  (internationaal);MIJNBVKP10;Mijnbouwvak P10 (deelgebied);3.166667;52.416667;3936;494298;DONAR_E50
+652;NOORDZE;Noordzee  (internationaal);MIJNBVKP11;Mijnbouwvak P11 (deelgebied);3.500000;52.416667;26605;493655;DONAR_E50
+653;NOORDZE;Noordzee  (internationaal);MIJNBVKP12;Mijnbouwvak P12 (deelgebied);3.833333;52.416667;49275;493116;DONAR_E50
+654;NOORDZE;Noordzee  (internationaal);MIJNBVKP13;Mijnbouwvak P13 (deelgebied);3.166667;52.250000;3368;475762;DONAR_E50
+655;NOORDZE;Noordzee  (internationaal);MIJNBVKP14;Mijnbouwvak P14 (deelgebied);3.500000;52.250000;26122;475117;DONAR_E50
+656;NOORDZE;Noordzee  (internationaal);MIJNBVKP15;Mijnbouwvak P15 (deelgebied);3.833333;52.250000;48877;474577;DONAR_E50
+657;NOORDZE;Noordzee  (internationaal);MIJNBVKP16;Mijnbouwvak P16 (deelgebied);3.166667;52.083333;2801;457227;DONAR_E50
+658;NOORDZE;Noordzee  (internationaal);MIJNBVKP17;Mijnbouwvak P17 (deelgebied);3.500000;52.083333;25639;456580;DONAR_E50
+659;NOORDZE;Noordzee  (internationaal);MIJNBVKP18;Mijnbouwvak P18 (deelgebied);3.833333;52.083333;48480;456039;DONAR_E50
+660;NOORDZE;Noordzee  (internationaal);MIJNBVKQ01;Mijnbouwvak Q01 (deelgebied);4.166667;52.916667;72886;548305;DONAR_E50
+661;NOORDZE;Noordzee  (internationaal);MIJNBVKQ02;Mijnbouwvak Q02 (deelgebied);4.500000;52.916667;95303;547978;DONAR_E50
+662;NOORDZE;Noordzee  (internationaal);MIJNBVKQ03;Mijnbouwvak Q03 (deelgebied);4.833333;52.916667;117720;547754;DONAR_E50
+663;NOORDZE;Noordzee  (internationaal);MIJNBVKQ04;Mijnbouwvak Q04 (deelgebied);4.166667;52.750000;72573;529763;DONAR_E50
+664;NOORDZE;Noordzee  (internationaal);MIJNBVKQ05;Mijnbouwvak Q05 (deelgebied);4.500000;52.750000;95075;529435;DONAR_E50
+665;NOORDZE;Noordzee  (internationaal);MIJNBVKQ06;Mijnbouwvak Q06 (deelgebied);4.833333;52.750000;117578;529210;DONAR_E50
+666;NOORDZE;Noordzee  (internationaal);MIJNBVKQ07;Mijnbouwvak Q07 (deelgebied);4.166667;52.583333;72260;511222;DONAR_E50
+667;NOORDZE;Noordzee  (internationaal);MIJNBVKQ08;Mijnbouwvak Q08 (deelgebied);4.500000;52.583333;94847;510893;DONAR_E50
+668;NOORDZE;Noordzee  (internationaal);MIJNBVKQ09;Mijnbouwvak Q09 (deelgebied);4.833333;52.583333;117436;510668;DONAR_E50
+669;NOORDZE;Noordzee  (internationaal);MIJNBVKQ10;Mijnbouwvak Q10 (deelgebied);4.166667;52.416667;71947;492681;DONAR_E50
+670;NOORDZE;Noordzee  (internationaal);MIJNBVKQ11;Mijnbouwvak Q11 (deelgebied);4.500000;52.416667;94620;492351;DONAR_E50
+671;NOORDZE;Noordzee  (internationaal);MIJNBVKQ13;Mijnbouwvak Q13 (deelgebied);4.166667;52.250000;71635;474141;DONAR_E50
+672;NOORDZE;Noordzee  (internationaal);MIJNBVKQ14;Mijnbouwvak Q14 (deelgebied);4.500000;52.250000;94393;473810;DONAR_E50
+673;NOORDZE;Noordzee  (internationaal);MIJNBVKQ16;Mijnbouwvak Q16 (deelgebied);4.166667;52.083333;71323;455602;DONAR_E50
+674;NOORDZE;Noordzee  (internationaal);MIJNBVKQ17;Mijnbouwvak Q17 (deelgebied);4.500000;52.083333;94166;455270;DONAR_E50
+675;NOORDZE;Noordzee  (internationaal);MIJNBVKR02;Mijnbouwvak R02 (deelgebied);2.500000;51.916667;-43607;440304;DONAR_E50
+676;NOORDZE;Noordzee  (internationaal);MIJNBVKR03;Mijnbouwvak R03 (deelgebied);2.833333;51.916667;-20688;439446;DONAR_E50
+677;NOORDZE;Noordzee  (internationaal);MIJNBVKR05;Mijnbouwvak R05 (deelgebied);2.500000;51.750000;-44344;421774;DONAR_E50
+678;NOORDZE;Noordzee  (internationaal);MIJNBVKR06;Mijnbouwvak R06 (deelgebied);2.833333;51.750000;-21339;420913;DONAR_E50
+679;NOORDZE;Noordzee  (internationaal);MIJNBVKR09;Mijnbouwvak R09 (deelgebied);2.833333;51.583333;-21990;402381;DONAR_E50
+680;NOORDZE;Noordzee  (internationaal);MIJNBVKR12;Mijnbouwvak R12 (deelgebied);2.833333;51.416667;-22640;383849;DONAR_E50
+681;NOORDZE;Noordzee  (internationaal);MIJNBVKR14;Mijnbouwvak R14 (deelgebied);2.500000;51.250000;-46548;366185;DONAR_E50
+682;NOORDZE;Noordzee  (internationaal);MIJNBVKR15;Mijnbouwvak R15 (deelgebied);2.833333;51.250000;-23289;365317;DONAR_E50
+683;NOORDZE;Noordzee  (internationaal);MIJNBVKR17;Mijnbouwvak R17 (deelgebied);2.500000;51.083333;-47280;347655;DONAR_E50
+684;NOORDZE;Noordzee  (internationaal);MIJNBVKR18;Mijnbouwvak R18 (deelgebied);2.833333;51.083333;-23937;346786;DONAR_E50
+685;NOORDZE;Noordzee  (internationaal);MIJNBVKS01;Mijnbouwvak S01 (deelgebied);3.166667;51.916667;2234;438692;DONAR_E50
+686;NOORDZE;Noordzee  (internationaal);MIJNBVKS02;Mijnbouwvak S02 (deelgebied);3.500000;51.916667;25158;438044;DONAR_E50
+687;NOORDZE;Noordzee  (internationaal);MIJNBVKS03;Mijnbouwvak S03 (deelgebied);3.833333;51.916667;48083;437501;DONAR_E50
+688;NOORDZE;Noordzee  (internationaal);MIJNBVKS04;Mijnbouwvak S04 (deelgebied);3.166667;51.750000;1667;420158;DONAR_E50
+689;NOORDZE;Noordzee  (internationaal);MIJNBVKS05;Mijnbouwvak S05 (deelgebied);3.500000;51.750000;24676;419508;DONAR_E50
+690;NOORDZE;Noordzee  (internationaal);MIJNBVKS06;Mijnbouwvak S06 (deelgebied);3.833333;51.750000;47687;418963;DONAR_E50
+691;NOORDZE;Noordzee  (internationaal);MIJNBVKS07;Mijnbouwvak S07 (deelgebied);3.166667;51.583333;1102;401624;DONAR_E50
+692;NOORDZE;Noordzee  (internationaal);MIJNBVKS08;Mijnbouwvak S08 (deelgebied);3.500000;51.583333;24195;400972;DONAR_E50
+693;NOORDZE;Noordzee  (internationaal);MIJNBVKS09;Mijnbouwvak S09 (deelgebied);3.833333;51.583333;47291;400426;DONAR_E50
+694;NOORDZE;Noordzee  (internationaal);MIJNBVKS10;Mijnbouwvak S10 (deelgebied);3.166667;51.416667;537;383090;DONAR_E50
+695;NOORDZE;Noordzee  (internationaal);MIJNBVKS11;Mijnbouwvak S11 (deelgebied);3.500000;51.416667;23715;382437;DONAR_E50
+696;NOORDZE;Noordzee  (internationaal);MIJNBVKS13;Mijnbouwvak S13 (deelgebied);3.166667;51.250000;-28;364556;DONAR_E50
+697;NOORDZE;Noordzee  (internationaal);MIJNBVKS14;Mijnbouwvak S14 (deelgebied);3.500000;51.250000;23236;363901;DONAR_E50
+698;NOORDZE;Noordzee  (internationaal);MIJNBVKT01;Mijnbouwvak T01 (deelgebied);4.166667;51.916667;71011;437063;DONAR_E50
+699;NOORDZE;Noordzee  (internationaal);MIJNBVKZ01;Mijnbouwvak @01 (deelgebied);2.166667;55.916667;-46519;886217;DONAR_E50
+700;NOORDZE;Noordzee  (internationaal);MIJNBVKZ02;Mijnbouwvak @02 (deelgebied);2.500000;55.916667;-25674;885316;DONAR_E50
+701;NOORDZE;Noordzee  (internationaal);MIJNBVKZ03;Mijnbouwvak @03 (deelgebied);2.833333;55.916667;-4825;884514;DONAR_E50
+702;NOORDZE;Noordzee  (internationaal);MIJNBVKZ04;Mijnbouwvak @04 (deelgebied);2.166667;55.750000;-47364;867659;DONAR_E50
+703;NOORDZE;Noordzee  (internationaal);MIJNBVKZ05;Mijnbouwvak @05 (deelgebied);2.500000;55.750000;-26431;866756;DONAR_E50
+704;NOORDZE;Noordzee  (internationaal);MIJNBVKZ06;Mijnbouwvak @06 (deelgebied);2.833333;55.750000;-5495;865951;DONAR_E50
+705;NOORDZE;Noordzee  (internationaal);MIJNBVKZ07;Mijnbouwvak @07 (deelgebied);2.166667;55.583333;-48208;849104;DONAR_E50
+706;NOORDZE;Noordzee  (internationaal);MIJNBVKZ08;Mijnbouwvak @08 (deelgebied);2.500000;55.583333;-27188;848198;DONAR_E50
+707;NOORDZE;Noordzee  (internationaal);MIJNBVKZ09;Mijnbouwvak @09 (deelgebied);2.833333;55.583333;-6164;847390;DONAR_E50
+708;NOORDZE;Noordzee  (internationaal);MIJNBVKZ10;Mijnbouwvak @10 (deelgebied);2.166667;55.416667;-49051;830550;DONAR_E50
+709;NOORDZE;Noordzee  (internationaal);MIJNBVKZ11;Mijnbouwvak @11 (deelgebied);2.500000;55.416667;-27944;829642;DONAR_E50
+710;NOORDZE;Noordzee  (internationaal);MIJNBVKZ12;Mijnbouwvak @12 (deelgebied);2.833333;55.416667;-6833;828832;DONAR_E50
+711;NOORDZE;Noordzee  (internationaal);MIJNBVKZ13;Mijnbouwvak @13 (deelgebied);2.166667;55.250000;-49893;811999;DONAR_E50
+712;NOORDZE;Noordzee  (internationaal);MIJNBVKZ14;Mijnbouwvak @14 (deelgebied);2.500000;55.250000;-28698;811087;DONAR_E50
+713;NOORDZE;Noordzee  (internationaal);MIJNBVKZ15;Mijnbouwvak @15 (deelgebied);2.833333;55.250000;-7500;810275;DONAR_E50
+714;NOORDZE;Noordzee  (internationaal);MIJNBVKZ16;Mijnbouwvak @16 (deelgebied);2.166667;55.083333;-50734;793450;DONAR_E50
+715;NOORDZE;Noordzee  (internationaal);MIJNBVKZ17;Mijnbouwvak @17 (deelgebied);2.500000;55.083333;-29452;792535;DONAR_E50
+716;NOORDZE;Noordzee  (internationaal);MIJNBVKZ18;Mijnbouwvak @18 (deelgebied);2.833333;55.083333;-8167;791721;DONAR_E50
+717;NOORDZE;Noordzee  (internationaal);PENRD;Penrod;4.216667;53.408333;77138;602955;DONAR_E50
+718;NOORDZE;Noordzee  (internationaal);SCHIERMNOG40;Schiermonikoog 40 km u.d. kust;6.050000;53.925000;198513;660025;DONAR_E50
+719;NOORDZE;Noordzee  (internationaal);SCHOUWN25;Schouwen 25 km uit de kust;3.306414;51.744749;11297;419288;DONAR_E50
+720;NOORDZE;Noordzee  (internationaal);SCHOUWN30;Schouwen 30 km uit de kust;3.274451;51.839736;9397;429916;DONAR_E50
+721;NOORDZE;Noordzee  (internationaal);SCHOUWN50;Schouwen 50 km uit de kust;3.058066;51.954735;-5099;443159;DONAR_E50
+722;NOORDZE;Noordzee  (internationaal);TERSLDE1;Terschelling-Ameland - scheepvaartrout;5.418630;53.668340;157048;631258;DONAR_E50
+723;NOORDZE;Noordzee  (internationaal);TERSLDE10;Terschelling-Ameland - scheepvaartrout;5.641111;53.720278;171732;637067;DONAR_E50
+724;NOORDZE;Noordzee  (internationaal);TERSLDE2;Terschelling-Ameland - scheepvaartrout;5.568333;53.710833;166931;636001;DONAR_E50
+725;NOORDZE;Noordzee  (internationaal);TERSLDE3;Terschelling-Ameland - scheepvaartrout;5.454190;53.653630;159400;629622;DONAR_E50
+726;NOORDZE;Noordzee  (internationaal);TERSLDE4;Terschelling-Ameland - scheepvaartrout;5.958333;53.677778;192710;632457;DONAR_E50
+727;NOORDZE;Noordzee  (internationaal);TERSLDE5;Terschelling-Ameland - scheepvaartrout;5.330860;53.623070;151243;626220;DONAR_E50
+728;NOORDZE;Noordzee  (internationaal);TERSLDE6;Terschelling-Ameland - scheepvaartrout;5.448350;53.620280;159017;625910;DONAR_E50
+729;NOORDZE;Noordzee  (internationaal);TERSLDE7;Terschelling-Ameland - scheepvaartrout;5.987778;53.691111;194644;633957;DONAR_E50
+730;NOORDZE;Noordzee  (internationaal);TERSLDE8;Terschelling-Ameland - scheepvaartrout;5.661390;53.666960;173094;631138;DONAR_E50
+731;NOORDZE;Noordzee  (internationaal);TERSLDE9;Terschelling-Ameland - scheepvaartrout;5.463056;53.639722;159988;628075;DONAR_E50
+732;NOORDZE;Noordzee  (internationaal);TERSLDIE1;Terschelling-Ameland - inshore scheepv;5.957778;53.606111;192737;624481;DONAR_E50
+733;NOORDZE;Noordzee  (internationaal);TERSLDIE2;Terschelling-Ameland - inshore scheepv;5.646670;53.552510;172167;618397;DONAR_E50
+734;NOORDZE;Noordzee  (internationaal);TERSLDIE3;Terschelling-Ameland - inshore scheepv;5.403900;53.486120;156079;610978;DONAR_E50
+735;NOORDZE;Noordzee  (internationaal);TERSLDIE4;Terschelling-Ameland - inshore scheepv;5.335280;53.478350;151524;610114;DONAR_E50
+736;NOORDZE;Noordzee  (internationaal);TERSLDOE1;Terschelling-Ameland - offshore scheep;5.618906;53.783353;170244;644082;DONAR_E50
+737;NOORDZE;Noordzee  (internationaal);TERSLDOE10;Terschelling-Ameland - offshore scheep;5.792783;53.784167;181704;644224;DONAR_E50
+738;NOORDZE;Noordzee  (internationaal);TERSLDOE2;Terschelling-Ameland - offshore scheep;5.563628;53.779469;166601;643640;DONAR_E50
+739;NOORDZE;Noordzee  (internationaal);TERSLDOE3;Terschelling-Ameland - offshore scheep;5.510292;53.850567;163072;651546;DONAR_E50
+740;NOORDZE;Noordzee  (internationaal);TERSLDOE4;Terschelling-Ameland - offshore scheep;5.914453;53.853067;189668;651944;DONAR_E50
+741;NOORDZE;Noordzee  (internationaal);TERSLDOE5;Terschelling-Ameland - offshore scheep;5.771389;53.809189;180279;647001;DONAR_E50
+742;NOORDZE;Noordzee  (internationaal);TERSLDOE6;Terschelling-Ameland - offshore scheep;5.480858;53.785569;161144;644308;DONAR_E50
+743;NOORDZE;Noordzee  (internationaal);TERSLDOE7;Terschelling-Ameland - offshore scheep;5.403911;53.846967;156071;651138;DONAR_E50
+744;NOORDZE;Noordzee  (internationaal);TERSLDOE8;Terschelling-Ameland - offshore scheep;5.758069;53.760847;179430;641616;DONAR_E50
+745;NOORDZE;Noordzee  (internationaal);TERSLDOE9;Terschelling-Ameland - offshore scheep;5.905556;53.821947;189107;648477;DONAR_E50
+746;NOORDZE;Noordzee  (internationaal);TERSLNWT100;Terschelling noord west 100 km uit de;4.316667;54.150000;85019;685392;DONAR_E50
+747;NOORDZE;Noordzee  (internationaal);TEXE1;Texel - scheepvaartroute 1;4.379175;53.424747;87969;604618;DONAR_E50
+748;NOORDZE;Noordzee  (internationaal);TEXE10;Texel - scheepvaartroute 10;4.344733;53.449739;85720;607431;DONAR_E50
+749;NOORDZE;Noordzee  (internationaal);TEXE2;Texel - scheepvaartroute 2;4.285564;53.441958;81776;606624;DONAR_E50
+750;NOORDZE;Noordzee  (internationaal);TEXE3;Texel - scheepvaartroute 3;4.412514;53.235022;89898;583476;DONAR_E50
+751;NOORDZE;Noordzee  (internationaal);TEXE4;Texel - scheepvaartroute 4;4.179444;53.204444;74282;580309;DONAR_E50
+752;NOORDZE;Noordzee  (internationaal);TEXE5;Texel - scheepvaartroute 5;4.114167;53.256111;70023;586133;DONAR_E50
+753;NOORDZE;Noordzee  (internationaal);TEXE6;Texel - scheepvaartroute 6;4.121389;53.325278;70640;593821;DONAR_E50
+754;NOORDZE;Noordzee  (internationaal);TEXE7;Texel - scheepvaartroute 7;4.069444;53.246389;67019;585105;DONAR_E50
+755;NOORDZE;Noordzee  (internationaal);TEXE8;Texel - scheepvaartroute 8;4.271944;53.312500;80648;592233;DONAR_E50
+756;NOORDZE;Noordzee  (internationaal);TEXE9;Texel - scheepvaartroute 9;4.182236;53.411403;74854;603334;DONAR_E50
+757;NOORDZE;Noordzee  (internationaal);TEXL70;Texel 70 km uit de kust;4.000000;53.500833;62931;613504;DONAR_E50
+758;NOORDZE;Noordzee  (internationaal);TEXLSP;Texel lichtschip;4.301111;53.027778;82114;560523;DONAR_E50
+759;NOORDZE;Noordzee  (internationaal);TEXOE1;Texel - offshore scheepvaartroute 1;4.501944;53.102222;95687;568622;DONAR_E50
+760;NOORDZE;Noordzee  (internationaal);TEXOE10;Texel - offshore scheepvaartroute 10;4.358056;53.263333;86308;586676;DONAR_E50
+761;NOORDZE;Noordzee  (internationaal);TEXOE2;Texel - offshore scheepvaartroute 2;4.471944;53.166667;93769;575818;DONAR_E50
+762;NOORDZE;Noordzee  (internationaal);TEXOE3;Texel - offshore scheepvaartroute 3;4.473075;53.362794;94122;597640;DONAR_E50
+763;NOORDZE;Noordzee  (internationaal);TEXOE4;Texel - offshore scheepvaartroute 4;4.533889;53.157222;97899;574716;DONAR_E50
+764;NOORDZE;Noordzee  (internationaal);TEXOE5;Texel - offshore scheepvaartroute 5;4.518611;53.172222;96897;576397;DONAR_E50
+765;NOORDZE;Noordzee  (internationaal);TEXOE6;Texel - offshore scheepvaartroute 6;4.589167;53.306944;101781;591333;DONAR_E50
+766;NOORDZE;Noordzee  (internationaal);TEXOE7;Texel - offshore scheepvaartroute 7;4.584728;53.364744;101556;597769;DONAR_E50
+767;NOORDZE;Noordzee  (internationaal);TEXOE8;Texel - offshore scheepvaartroute 8;4.345000;53.182222;85306;577664;DONAR_E50
+768;NOORDZE;Noordzee  (internationaal);TEXOE9;Texel - offshore scheepvaartroute 9;4.506667;53.312778;96290;592047;DONAR_E50
+769;NOORDZE;Noordzee  (internationaal);WALCRN30;Walcheren 30 km uit de kust;3.113611;51.718333;-2105;416749;DONAR_E50
+770;NOORDZE;Noordzee  (internationaal);ZUIDLKNZE;Zuidelijke Noordzee (deelgebied);4.000000;53.166667;62214;576322;DONAR_E50
+29;NOORDZE;Noordzee  (internationaal);SCHOUWN70;Schouwen 70 km uit de kust;2.828911;52.073348;-20378;456879;DONAR_WGS
