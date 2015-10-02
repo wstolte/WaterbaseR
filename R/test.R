@@ -19,7 +19,6 @@ runApp(list(
       subset(mtcars, mtcars$gear == input$gear) %>% 
       # mtcars %>%
         ggvis(~cyl, ~mpg) %>% 
-        gg
         layer_points()
         )
     vis %>% bind_shiny("tp", "tp_ui")
