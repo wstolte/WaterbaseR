@@ -18,7 +18,7 @@ runApp(list(
     vis = reactive(
       subset(mtcars, mtcars$gear == input$gear) %>% 
       # mtcars %>%
-        ggvis(~cyl, ~mpg) %>% 
+        ggvis(~hp, ~mpg) %>% 
         layer_points()
         )
     vis %>% bind_shiny("tp", "tp_ui")
